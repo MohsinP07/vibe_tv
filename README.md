@@ -1,16 +1,11 @@
-# streaming_app
+# 📺 VibeTV
 
-A new Flutter project.
+### TV in Your Pocket.
 
-## Getting Started
+**VibeTV** is a modern Flutter-based mobile app that brings the complete TV experience right to your smartphone. Whether you're on the move or relaxing at home, VibeTV gives you instant access to multiple live TV channels in real time.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+#### Description
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+VibeTV delivers seamless live streaming of various TV channels through an intuitive and sleek interface. Users can browse and switch between channels effortlessly, just like flipping through a traditional TV. Built with scalability and performance in mind, VibeTV ensures smooth playback, secure access, and an immersive viewing experience anytime, anywhere.
